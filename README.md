@@ -13,4 +13,4 @@ The Nifty-50 Finance Stats Explorer is a powerful web application built using St
 1. Go to the file directory of the app
 2. streamlit run Nifty50_EDA.py
 
-
+Note: Preview of the web app is in the Screenshots folder
